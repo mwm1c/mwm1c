@@ -13,7 +13,7 @@
 
 - :point_right: [My blog](https://blog-mwm1c.vercel.app/)
 
-- 💬 Ask me about **C/Java Web/Git**
+- 💬 Ask me about **C/JSP/Linux/Git**
 
 - 📫 How to reach me **cengzikang@gmail.com**
 
