@@ -11,7 +11,9 @@
 
 - 📗 [My personal library](https://animated-mind-460.notion.site/8571941f038646089fd4d23700ca54e4?v=d0b0afef02a34285bec910bb4b166817)
 
-- :point_right: [My blog](https://blog-mwm1c.vercel.app/)
+- :point_right: [Blog based on vercel](https://blog-mwm1c.vercel.app/)
+
+- :point_right: [Blog based on wordpress](https://mwm1c.top)
 
 - 💬 Ask me about **C/JSP/Linux**
 
