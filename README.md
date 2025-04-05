@@ -43,7 +43,7 @@
 
 <h3 align="left">My LeetCode Stats:</h3>
 <p align="left">
-  <img src="https://leetcode.card.workers.dev/mwm1c?theme=dark&font=source_code_pro&ext=heatmap" alt="mwm1c's LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/mwm1c?theme=light&font=Monda&ext=activity&site=cn" alt="mwm1c's LeetCode Stats" />
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
