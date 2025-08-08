@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MWM1C</h1>
-<h3 align="center">💻 CS Student | Linux Lover | C++ Explorer</h3>
+<h3 align="center">💻 Computer Science | Linux | C/C++</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mwm1c&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
