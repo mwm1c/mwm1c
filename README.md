@@ -48,7 +48,7 @@
 
 ### 📊 Stats & Activity
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mwm1c?theme=dark&font=ABeeZee&ext=activity&site=cn" height="180" />
+  <img src="https://leetcard.jacoblin.cool/mwm1c?theme=dark&font=ABeeZee&ext=activity&site=cn" height="240" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwm1c&layout=compact&theme=radical" height="180" />
 </p>
 
