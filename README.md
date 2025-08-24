@@ -51,11 +51,3 @@
   <img src="https://leetcard.jacoblin.cool/mwm1c?theme=dark&font=ABeeZee&ext=activity&site=cn" height="240" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwm1c&layout=compact&theme=radical" height="180" />
 </p>
-
----
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mwm1c&theme=onedark&row=1&column=6" alt="Trophies" />
-  </a>
-</p>
